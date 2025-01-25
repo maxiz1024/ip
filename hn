@@ -119,8 +119,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726090504473.jpg" group-title="省内",嘉丽购
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047453/main.m3u8
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728182516805.jpg" group-title="全部",茶频道
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000316196/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",长沙新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",长沙新闻综合
@@ -337,6 +335,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244801/main.m3u8
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726085653026.jpg" group-title="付费",先锋乒羽
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182319/main.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728182516805.jpg" group-title="付费",茶频道
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000316196/main.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728182530526.jpg" group-title="付费",茶频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000003000000104063/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/27/20220727113019283.jpg" group-title="付费",中国天气
