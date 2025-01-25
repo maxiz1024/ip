@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182562/main.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725172041741.jpg" group-title="央视",CCTV1高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182562/main.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182301/main.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
