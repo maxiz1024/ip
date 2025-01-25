@@ -295,7 +295,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308859/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155325827.jpg" group-title="付费",家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155404430.jpg" group-title="付费",电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155404430.jpg" group-title="付费",影迷电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448841/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155427948.jpg" group-title="付费",动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8
