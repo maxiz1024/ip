@@ -335,9 +335,9 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244797/main.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728161052675.jpg" group-title="付费",高尔夫网球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244801/main.m3u8
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726085653026.jpg" group-title="全部",先锋乒羽
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726085653026.jpg" group-title="付费",先锋乒羽
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182319/main.m3u8
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728182530526.jpg" group-title="全部",茶频道
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728182530526.jpg" group-title="付费",茶频道
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000003000000104063/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/27/20220727113019283.jpg" group-title="全部",中国天气
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/27/20220727113019283.jpg" group-title="付费",中国天气
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000004000000182438/main.m3u8
