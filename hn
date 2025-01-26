@@ -99,10 +99,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001248/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183925365.jpg" group-title="省内",湖南娱乐
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182313/main.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725191422126.jpg" group-title="省内",金鹰纪实
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725191422126.jpg" group-title="省内",金鹰纪实
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182315/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183445578.jpg" group-title="省内",湖南爱晚
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047425/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725183445578.jpg" group-title="省内",湖南爱晚
@@ -113,12 +109,12 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001247/main.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725191319311.jpg" group-title="省内",金鹰卡通
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182316/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726085615668.jpg" group-title="省内",快乐购
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047427/main.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725191422126.jpg" group-title="省内",金鹰纪实
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725191422126.jpg" group-title="省内",金鹰纪实
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182315/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/25/20220725184411594.jpg" group-title="省内",湖南教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/26/20220726090504473.jpg" group-title="省内",嘉丽购
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047453/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",长沙新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地",长沙新闻综合
@@ -269,6 +265,10 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381025/main.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/06/20220706090303052.jpg" group-title="卫视",哈哈炫动
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182497/main.m3u8
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155451292.jpg" group-title="付费",新动漫
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728154735958.jpg" group-title="付费",优优宝贝
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040377/main.m3u8
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728145824831.jpg" group-title="付费",天元围棋
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728161317504.jpg" group-title="付费",梨园
@@ -281,10 +281,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308848/main.m3u8
 #EXTINF:-1 tvg-id="6627" tvg-name="百姓健康" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728154615474.jpg" group-title="付费",百姓健康
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040371/main.m3u8
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728155451292.jpg" group-title="付费",新动漫
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728154735958.jpg" group-title="付费",优优宝贝
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040377/main.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728161114613.jpg" group-title="付费",老故事
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/upstream/cms/resources/upload/202207/28/20220728154903042.jpg" group-title="付费",家庭理财
