@@ -3,6 +3,8 @@
 http://tvpull.careryun.com/tv/cctv1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://kudan.x3322.net:3456/gctv.php?id=cctv1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=74dceb1864cb0ee150a9d020a7a7b2d10d45084003a5f87a2ab4d5cee2296f70_1738677889_604800&fromCDN=ws
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://tvpull.careryun.com/tv/cctv2.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -11,6 +13,8 @@ http://kudan.x3322.net:3456/gctv.php?id=cctv2
 http://tvpull.careryun.com/tv/cctv3.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://kudan.x3322.net:3456/gctv.php?id=cctv3
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV3
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=74dceb1864cb0ee150a9d020a7a7b2d10d45084003a5f87a2ab4d5cee2296f70_1738677889_604800&fromCDN=ws
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://tvpull.careryun.com/tv/cctv4.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
@@ -49,6 +53,8 @@ http://kudan.x3322.net:3456/gctv.php?id=cctv12
 http://tvpull.careryun.com/tv/cctv13.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://kudan.x3322.net:3456/gctv.php?id=cctv13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=74dceb1864cb0ee150a9d020a7a7b2d10d45084003a5f87a2ab4d5cee2296f70_1738677889_604800&fromCDN=ws
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://tvpull.careryun.com/tv/cctv14.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
